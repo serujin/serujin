@@ -15,7 +15,6 @@ Hi there, I'm Sergio ✌
 </br>
 
 ### 🛠 Languages and Tools:
-<p>
     <img align="left" width="30px" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png"/>
     <img align="left" width="30px" src="https://cdn.icon-icons.com/icons2/844/PNG/512/HTML5_icon-icons.com_67090.png"/>
     <img align="left" width="30px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/csharp_original_logo_icon_146578.png"/>
@@ -37,7 +36,6 @@ Hi there, I'm Sergio ✌
     <img align="left" width="30px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/bootstrap_plain_logo_icon_146619.png"/>
     <img align="left" width="30px" src="https://2.bp.blogspot.com/-dZ76ETKzXUk/Vx-zIwkojdI/AAAAAAAAC4A/hsdZJzoKPnoVh8WkzQ9Fv9AUKIaacsGqACLcB/s200/image01.png"/>
     <img align="left" width="30px" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/pycharm_93936.png"/> 
-</p>
 
 ### Extra details 🔍
 
