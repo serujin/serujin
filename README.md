@@ -9,7 +9,6 @@
 ### 🔌 Connect with me:
 - [Linkedin](https://www.linkedin.com/in/smunozli)
 - [Email](mailto:sergio.munoz.lillo@gmail.com?subject=[GitHub]%20New%20Contact)
-</br>
 
 ### 🛠 Languages and Tools:
 <img align="left" alt="Java" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"/>
@@ -33,9 +32,6 @@
 <img align="left" alt="Linux" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"/>
 <img align="left" alt="Windows" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/windows/windows.png"/>
 <img align="left" alt="Bootstrap" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"/>
-</br>
-</br>
 
-</br>
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=serujin.serujin)
 
