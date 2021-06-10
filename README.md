@@ -15,6 +15,7 @@ Hi there, I'm Sergio ✌
 </br>
 
 ### 🛠 Languages and Tools:
+
 <img align="left" width="30px" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png"/>
 <img align="left" width="30px" src="https://cdn.icon-icons.com/icons2/844/PNG/512/HTML5_icon-icons.com_67090.png"/>
 <img align="left" width="30px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/csharp_original_logo_icon_146578.png"/>
@@ -40,11 +41,8 @@ Hi there, I'm Sergio ✌
 
 ### Extra details 🔍
 
-<p>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=serujin&hide=issues&show_icons=true" />
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=serujin&layout=compact" />
-</p>
-
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=serujin.serujin" />
 
 <!--<details>
