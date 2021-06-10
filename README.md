@@ -12,8 +12,6 @@ Hi there, I'm Sergio ✌
 
 - [Email](mailto:sergio.munoz.lillo@gmail.com?subject=[GitHub]%20New%20Contact)
 
-</br>
-
 ### 🛠 Languages and Tools:
 <p>
     <img align="center" width="30px" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png"/>
