@@ -7,7 +7,7 @@
 
 ### 🔌 Connect with me:
 - Linkedin [<img align="left" alt="Sergio Muñoz | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.1.0/icons/linkedin.svg"/>][linkedin]
-
+[Linkedin]([linkedin])
 </br>
 
 ### 🛠 Languages and Tools:
