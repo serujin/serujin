@@ -9,10 +9,7 @@ Hi there, I'm Sergio ✌
 ### 🔌 Connect with me:
 
 - [Linkedin](https://www.linkedin.com/in/smunozli)
-
 - [Email](mailto:sergio.munoz.lillo@gmail.com?subject=[GitHub]%20New%20Contact)
-
-</br>
 
 ### 🛠 Languages and Tools:
 <p>
