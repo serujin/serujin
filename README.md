@@ -38,7 +38,7 @@ Hi there, I'm Sergio ✌
 
 ### Extra details 🔍
 
-<img align="left" alt="Serujin GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=serujin&show_icons=true&hide_border=false" />
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=serujin)](https://github.com/anuraghazra/github-readme-stats)
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=serujin.serujin)
 <!--<details>
   <!--<summary>:zap: Recent GitHub Activity</summary>-->
