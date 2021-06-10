@@ -5,12 +5,13 @@ Hi there, I'm Sergio ✌
 - 📚 I love learning new technologies
 - 🎮 I like videogames and videogame development
 - 🎵 Music is key to work!
+- 
 
 
 ## 🛠 Languages and Tools 
 <p>
     <p>
-        <p>Languages</p>
+        <p>Programming Languages</p>
         <p>
             <img align="center" width="30px" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png"/>
             <img align="center" width="30px" src="https://cdn.icon-icons.com/icons2/844/PNG/512/HTML5_icon-icons.com_67090.png"/>
@@ -51,6 +52,8 @@ Hi there, I'm Sergio ✌
     <p>
         <p>Tools</p>
         <p>
+            <img align="center" width="30px" src="https://img.icons8.com/fluent-systems-regular/452/github.png"/>
+            <img align="center" width="30px" src="https://cdn.iconscout.com/icon/free/png-256/git-1-226092.png"/>    
             <img align="center" width="30px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_django_icon_130645.png"/>
             <img align="center" width="30px" src="https://www.bairesdev.com/wp-content/uploads/2020/07/hibernate-java-framework-logo-01.png"/>
             <img align="center" width="30px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/bootstrap_plain_logo_icon_146619.png"/>
