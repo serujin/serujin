@@ -31,9 +31,6 @@
             <img align="center" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"/>
             <img align="center" width="30px" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/intellij_93550.png"/>
             <img align="center" width="30px" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/pycharm_93936.png"/>
-            
-            
-            
         </p>
     </p>
     <p>
