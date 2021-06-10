@@ -1,7 +1,7 @@
 
 Hi there, I'm Sergio ✌
 =============
-### I'm a Full Stack Developer 🖥
+## I'm a Full Stack Developer 🖥
 - 📚 I love learning new technologies
 - 🎮 I like videogames and videogame development
 - 🎵 Music is key to work!
@@ -11,6 +11,8 @@ Hi there, I'm Sergio ✌
 - [Linkedin](https://www.linkedin.com/in/smunozli)
 
 - [Email](mailto:sergio.munoz.lillo@gmail.com?subject=[GitHub]%20New%20Contact)
+
+</br>
 
 ### 🛠 Languages and Tools:
 <p>
@@ -39,12 +41,11 @@ Hi there, I'm Sergio ✌
 
 ### Extra details 🔍
 
-<p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=serujin&hide=issues&show_icons=true" />
-    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=serujin&layout=compact" />
-</p>
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=serujin.serujin" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=serujin&hide=issues&show_icons=true" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=serujin&layout=compact" />
+
+<img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=serujin.serujin" />
 
 <!--<details>
   <!--<summary>:zap: Recent GitHub Activity</summary>-->
