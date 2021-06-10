@@ -7,7 +7,7 @@
 
 ### 🔌 Connect with me:
 - [Linkedin](https://www.linkedin.com/in/smunozli)
-- [Mail:]()sergio.munoz.lillo@gmail.com
+- [Email](mailto:sergio.munoz.lillo@gmail.com?subject=[GitHub]%20New%20Contact)
 </br>
 
 ### 🛠 Languages and Tools:
