@@ -60,6 +60,7 @@
             <img align="center" width="30px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_django_icon_130645.png"/>
             <img align="center" width="30px" src="https://www.bairesdev.com/wp-content/uploads/2020/07/hibernate-java-framework-logo-01.png"/>
             <img align="center" width="30px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/bootstrap_plain_logo_icon_146619.png"/>
+            <img align="center" width="30px" src="https://raw.githubusercontent.com/github/explore/d92924b1d925bb134e308bd29c9de6c302ed3beb/topics/terminal/terminal.png"/>
         </p>
     </p>
     <p>
