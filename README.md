@@ -3,9 +3,9 @@ Hi there, I'm Sergio ✌
 =============
 ## 🎓 I'm a Full Stack Developer
 - 📚 I love learning new technologies
-- 🎮 I like videogames and videogame development
+- 🎮 I like videogames and game development
 - 🎵 Music is key to work!
-- 🌍 I speak Spanish and English
+- 🌍 Spanish and English
 
 
 ## 🛠 Languages and Tools 
