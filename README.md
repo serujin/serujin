@@ -1,6 +1,6 @@
 
-### Hi there, I'm Sergio ✌
-
+Hi there, I'm Sergio ✌
+=============
 ## I'm a Full Stack Developer 🖥
 - 📚 I love learning new technologies
 - 🎮 I like videogames and videogame development
