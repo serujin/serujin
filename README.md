@@ -29,21 +29,39 @@ Hi there, I'm Sergio ✌
             <img align="center" width="30px" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/pycharm_93936.png"/>
             <img align="center" width="30px" src="http://3.bp.blogspot.com/-QVwrtvK3eJM/UUUgVq7sDdI/AAAAAAAABQ8/ttJ7_H03RhM/s200/netbeans-logo.png"/>
             <img align="center" width="30px" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/intellij_93550.png"/>
+            <img align="center" width="30px" src="https://2.bp.blogspot.com/-dZ76ETKzXUk/Vx-zIwkojdI/AAAAAAAAC4A/hsdZJzoKPnoVh8WkzQ9Fv9AUKIaacsGqACLcB/s200/image01.png"/>
         </p>
     </p>
     <p>
-        <img align="center" width="30px" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/unityeditoricon_94269.png"/>
-        <img align="center" width="30px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/postgresql_plain_logo_icon_146389.png"/>
-        <img align="center" width="30px" src="http://getdrawings.com/free-icon/oracle-db-icon-65.png"/>
-        <img align="center" width="30px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_django_icon_130645.png"/>
+        <p>Databases</p>
+        <p>
+            <img align="center" width="30px" src="http://getdrawings.com/free-icon/oracle-db-icon-65.png"/>
+            <img align="center" width="30px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/postgresql_plain_logo_icon_146389.png"/>
+            <img align="center" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Sqlite-square-icon.svg/256px-Sqlite-square-icon.svg.png"/>
+        </p>
+    </p>
+    <p>
+        <p>Operative Systems</p>
+        <p>
+            <img align="center" width="30px" src="https://cdn.icon-icons.com/icons2/46/PNG/128/linux_penguin_animal_9362.png"/>
+            <img align="center" width="30px" src="https://cdn.icon-icons.com/icons2/836/PNG/512/Windows_Phone_icon-icons.com_66782.png"/>
         <img align="center" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"/>
-        <img align="center" width="30px" src="https://www.bairesdev.com/wp-content/uploads/2020/07/hibernate-java-framework-logo-01.png"/>
-        <img align="center" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Sqlite-square-icon.svg/256px-Sqlite-square-icon.svg.png"/>
-        <img align="center" width="30px" src="https://cdn.icon-icons.com/icons2/46/PNG/128/linux_penguin_animal_9362.png"/>
-        <img align="center" width="30px" src="https://cdn.icon-icons.com/icons2/836/PNG/512/Windows_Phone_icon-icons.com_66782.png"/>
-        <img align="center" width="30px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/bootstrap_plain_logo_icon_146619.png"/>
-        <img align="center" width="30px" src="https://2.bp.blogspot.com/-dZ76ETKzXUk/Vx-zIwkojdI/AAAAAAAAC4A/hsdZJzoKPnoVh8WkzQ9Fv9AUKIaacsGqACLcB/s200/image01.png"/>
-    </p> 
+        </p>
+    </p>
+    <p>
+        <p>Tools</p>
+        <p>
+            <img align="center" width="30px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_django_icon_130645.png"/>
+            <img align="center" width="30px" src="https://www.bairesdev.com/wp-content/uploads/2020/07/hibernate-java-framework-logo-01.png"/>
+            <img align="center" width="30px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/bootstrap_plain_logo_icon_146619.png"/>
+        </p>
+    </p>
+    <p>
+        <p>Hobbies</p>
+        <p>
+            <img align="center" width="30px" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/unityeditoricon_94269.png"/>
+        </p>
+    </p>
 </p>
   
 ### :speech_balloon: Contact me 
