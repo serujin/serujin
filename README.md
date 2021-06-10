@@ -36,7 +36,7 @@ Hi there, I'm Sergio ✌
     <img align="center" width="30px" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/pycharm_93936.png"/> 
 </p>
 
-### Extra details 🔍
+## Extra details 🔍
 
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=serujin&hide=issues&show_icons=true" />
