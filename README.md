@@ -9,7 +9,6 @@
 ### 🔌 Connect with me:
 - [Linkedin](https://www.linkedin.com/in/smunozli)
 - [Email](mailto:sergio.munoz.lillo@gmail.com?subject=[GitHub]%20New%20Contact)
-</br>
 
 ### 🛠 Languages and Tools:
 <img align="left" alt="Java" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"/>
