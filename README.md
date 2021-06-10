@@ -1,17 +1,13 @@
-### Hi there 👋
+### Hi there, I'm Sergio ✌
 
-<!--
-**serujin/serujin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm a Full Stack Developer
+- 📚 I love learning new technologies
+- 🎮 I like videogames and videogame development
 
-Here are some ideas to get you started:
+### Connect with me:
+[<img> align="left" alt="Sergio Muñoz | LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/
+simple-icons@v3/icons/linkedin.svg"/>][linkedin]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=serujin.serujin)
+
+[linkedin]: https://www.linkedin.com/in/smunozli
