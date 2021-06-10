@@ -36,7 +36,7 @@
 </br>
 </br>
 
-### Extra details 🔍
+### Extra details 🔎
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=serujin.serujin)
 <!--<details>
   <!--<summary>:zap: Recent GitHub Activity</summary>-->
