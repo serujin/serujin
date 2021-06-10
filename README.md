@@ -70,7 +70,7 @@
     </p>
 </p>
   
-### :speech_balloon: Contact me 
+## :speech_balloon: Contact me 
 
 - [Linkedin](https://www.linkedin.com/in/smunozli)
 - [Email](mailto:sergio.munoz.lillo@gmail.com?subject=[GitHub]%20New%20Contact)
