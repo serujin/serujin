@@ -25,12 +25,15 @@
         IDE's
         <p>
             <img align="center" width="30px" src="https://www.eclipse.org/downloads/images/committers.png"/>
+            <img align="center" width="30px" src="http://3.bp.blogspot.com/-QVwrtvK3eJM/UUUgVq7sDdI/AAAAAAAABQ8/ttJ7_H03RhM/s200/netbeans-logo.png"/>
+            <img align="center" width="30px" src="https://2.bp.blogspot.com/-dZ76ETKzXUk/Vx-zIwkojdI/AAAAAAAAC4A/hsdZJzoKPnoVh8WkzQ9Fv9AUKIaacsGqACLcB/s200/image01.png"/>
             <img align="center" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/125px-Visual_Studio_Icon_2019.svg.png"/>
             <img align="center" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"/>
-            <img align="center" width="30px" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/pycharm_93936.png"/>
-            <img align="center" width="30px" src="http://3.bp.blogspot.com/-QVwrtvK3eJM/UUUgVq7sDdI/AAAAAAAABQ8/ttJ7_H03RhM/s200/netbeans-logo.png"/>
             <img align="center" width="30px" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/intellij_93550.png"/>
-            <img align="center" width="30px" src="https://2.bp.blogspot.com/-dZ76ETKzXUk/Vx-zIwkojdI/AAAAAAAAC4A/hsdZJzoKPnoVh8WkzQ9Fv9AUKIaacsGqACLcB/s200/image01.png"/>
+            <img align="center" width="30px" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/pycharm_93936.png"/>
+            
+            
+            
         </p>
     </p>
     <p>
