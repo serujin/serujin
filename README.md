@@ -6,7 +6,7 @@ Hi there, I'm Sergio ✌
 - 🎮 I like videogames and videogame development
 - 🎵 Music is key to work!
 
-### 🔌 Connect with me:
+### Contact me 📩
 
 - [Linkedin](https://www.linkedin.com/in/smunozli)
 - [Email](mailto:sergio.munoz.lillo@gmail.com?subject=[GitHub]%20New%20Contact)
