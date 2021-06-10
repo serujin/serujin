@@ -5,7 +5,7 @@ Hi there, I'm Sergio ✌
 - 📚 I love learning new technologies
 - 🎮 I like videogames and videogame development
 - 🎵 Music is key to work!
-- 
+- 🌍 I speak Spanish and English
 
 
 ## 🛠 Languages and Tools 
