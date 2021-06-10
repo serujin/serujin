@@ -33,14 +33,17 @@ Hi there, I'm Sergio ✌
 <img align="left" width="30px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/bootstrap_plain_logo_icon_146619.png"/>
 <img align="left" width="30px" src="https://2.bp.blogspot.com/-dZ76ETKzXUk/Vx-zIwkojdI/AAAAAAAAC4A/hsdZJzoKPnoVh8WkzQ9Fv9AUKIaacsGqACLcB/s200/image01.png"/>
 <img align="left" width="30px" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/pycharm_93936.png"/>
-</br>
-</br>
+<br>
+<br>
 
 ### Extra details 🔍
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=serujin&hide=issues&show_icons=true" />
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=serujin&layout=compact" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=serujin&hide=issues&show_icons=true" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=serujin&layout=compact" />
+<br>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=serujin.serujin" />
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=serujin.serujin)
+
+![Visitor Badge]()
 <!--<details>
   <!--<summary>:zap: Recent GitHub Activity</summary>-->
   <!--DELETE_START_SECTION:activity-->
