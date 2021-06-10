@@ -53,6 +53,8 @@
     <p>
         Tools
         <p>
+            <img align="center" width="30px" src="https://cdn.icon-icons.com/icons2/195/PNG/256/VMware_23516.png"/>
+            <img align="center" width="30px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/virtualbox_logo_icon_169253.png"/>
             <img align="center" width="30px" src="https://img.icons8.com/fluent-systems-regular/452/github.png"/>
             <img align="center" width="30px" src="https://cdn.iconscout.com/icon/free/png-256/git-1-226092.png"/>    
             <img align="center" width="30px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_django_icon_130645.png"/>
