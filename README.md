@@ -35,12 +35,7 @@
 <img align="left" alt="Bootstrap" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"/>
 </br>
 </br>
-<!--<details>
-  <!--<summary>:zap: Recent GitHub Activity</summary>-->
-  <!--DELETE_START_SECTION:activity-->
-  <!--DELETE_END_SECTION:activity-->
-<!--</details>-->
-<!--</br>-->
+
 </br>
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=serujin.serujin)
 
