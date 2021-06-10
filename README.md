@@ -6,7 +6,8 @@
 - 🎮 I like videogames and videogame development
 
 ### 🔌 Connect with me:
-- [Linkedin](https://www.linkedin.com/in/smunozli)[<img align="left" alt="Sergio Muñoz | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.1.0/icons/linkedin.svg"/>][linkedin]
+- [Linkedin](https://www.linkedin.com/in/smunozli)
+- [Mail:]()sergio.munoz.lillo@gmail.com
 </br>
 
 ### 🛠 Languages and Tools:
