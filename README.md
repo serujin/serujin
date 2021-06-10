@@ -44,8 +44,8 @@ Hi there, I'm Sergio ✌
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=serujin&hide=issues&show_icons=true" />
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=serujin&layout=compact" />
-<p> </p>
-<img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=serujin.serujin" />
+<p></p>
+<img src="https://visitor-badge.laobi.icu/badge?page_id=serujin.serujin" />
 
 <!--<details>
   <!--<summary>:zap: Recent GitHub Activity</summary>-->
