@@ -41,5 +41,5 @@
   <!--DELETE_START_SECTION:activity-->
   <!--DELETE_END_SECTION:activity-->
 <!--</details>-->
-<!--</br>-->https://cdn.icon-icons.com/icons2/2415/PNG/512/csharp_original_logo_icon_146578.png
+<!--</br>-->
 
