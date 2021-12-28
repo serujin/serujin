@@ -40,6 +40,7 @@
             <img align="center" width="30px" src="http://getdrawings.com/free-icon/oracle-db-icon-65.png"/>
             <img align="center" width="30px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/postgresql_plain_logo_icon_146389.png"/>
             <img align="center" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Sqlite-square-icon.svg/256px-Sqlite-square-icon.svg.png"/>
+            <img align="center" width="30px" src="https://img.icons8.com/color/50/000000/mongodb.png"/>
         </p>
     </p>
     <p>
