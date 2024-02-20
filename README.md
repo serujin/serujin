@@ -18,7 +18,8 @@
             <img align="center" width="30px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/csharp_original_logo_icon_146578.png"/>
             <img align="center" width="30px" src="https://cdn.icon-icons.com/icons2/844/PNG/512/HTML5_icon-icons.com_67090.png"/>
             <img align="center" width="23px" src="https://logodix.com/logo/1111652.png"/>   
-            <img align="center" width="30px" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png"/> 
+            <img align="center" width="23px" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png"/> 
+            <img align="center" width="27px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_typescript_official_icon_130107.png"/> 
         </p>
     </p>
     <p>
